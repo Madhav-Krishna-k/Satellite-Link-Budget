@@ -45,15 +45,14 @@ Satellite_Link_Budget/
 ├── requirements.txt
 └── README.md
 
----
 
-## ⚙️ Installation
+<img width="501" height="329" alt="Screenshot 2026-03-02 003504" src="https://github.com/user-attachments/assets/21532d6e-88f9-4d06-a276-fe6dd68138c3" />
+<img width="642" height="555" alt="Screenshot 2026-03-02 003434" src="https://github.com/user-attachments/assets/99380be4-2c60-46c5-bd4e-a6ceb0036672" />
+<img width="639" height="541" alt="Screenshot 2026-03-02 003557" src="https://github.com/user-attachments/assets/95594f1e-0621-403f-aaee-07e732c036df" />
 
-### 1️⃣ Install Python (3.8 or higher)
 
-Download from:
-https://www.python.org/
 
-### 2️⃣ Install Required Libraries
+👨‍💻 Author
 
-Open terminal inside project folder and run:
+MADHAV KRISHNA K
+🔗 LinkedIn: https://www.linkedin.com/in/madhav-krishna-k-392617319/
